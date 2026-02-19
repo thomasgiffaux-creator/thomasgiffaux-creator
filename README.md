@@ -3,15 +3,10 @@
 <table>
 <tr>
 <td width="250">
-
 <img src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif" width="230">
-
 </td>
 <td>
-
-👋 **Data Analyst junior récemment diplômé**, avec 7 ans d’expérience en pilotage d’activité dans la grande distribution dont 4 ans en management.  
-Habitué à analyser des indicateurs de performance et à transformer les données en décisions opérationnelles, je partage ici une sélection de projets illustrant ma démarche en analyse de données.
-
+**Data Analyst junior récemment diplômé, avec 7 ans d’expérience en grande distribution dont 4 ans en management. Cette page présente une sélection de mes projets en analyse de données réalisés durant ma formation, illustrant ma démarche et mes compétences techniques.
 </td>
 </tr>
 </table>
