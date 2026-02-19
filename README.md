@@ -1,11 +1,21 @@
 # 👋 Bonjour, moi c’est Thomas
 
-Data Analyst junior récemment diplômé, avec 7 ans d’expérience en pilotage d’activité dans la grande distribution dont 4 ans en management. Habitué à analyser des indicateurs de performance et à transformer les données en décisions opérationnelles, je partage ici une sélection de projets illustrant ma démarche en analyse de données, de la préparation des données jusqu’à la restitution d’insights exploitables.
+<table>
+<tr>
+<td width="250">
 
----
+<img src="LIEN_DU_GIF" width="230">
 
-**<p align="center">
-    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">**
+</td>
+<td>
+
+👋 **Data Analyst junior récemment diplômé**, avec 7 ans d’expérience en pilotage d’activité dans la grande distribution dont 4 ans en management.  
+Habitué à analyser des indicateurs de performance et à transformer les données en décisions opérationnelles, je partage ici une sélection de projets illustrant ma démarche en analyse de données.
+
+</td>
+</tr>
+</table>
+
 
 ## 🛠️ Compétences
 - Python (Pandas, analyse exploratoire, visualisation)
