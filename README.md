@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Bonjour, moi c’est Thomas
 
-<!--
-**thomasgiffaux-creator/thomasgiffaux-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst junior récemment diplômé, avec 7 ans d’expérience en grande distribution dont 4 ans en management.  
+Habitué à piloter l’activité via KPI et à transformer les données en décisions opérationnelles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+- Python (Pandas, analyse exploratoire, visualisation)
+- SQL
+- Power BI
+- Excel
+- KNIME
+
+---
+
+## 📊 Projets Data
+
+### 🔹 Analyse des ventes e-commerce
+Analyse des performances commerciales et création d’un tableau de bord marketing.  
+Python, Excel  
+➡️ Voir le projet
+
+### 🔹 Optimisation de données commerciales
+Nettoyage, consolidation et analyse de données multi-sources.  
+Python  
+➡️ Voir le projet
+
+### 🔹 Dashboard de pilotage de projets
+Conception d’un dashboard interactif pour le suivi des performances.  
+Power BI  
+➡️ Voir le projet
+
+### 🔹 Base de données immobilière
+Modélisation et exploitation d’une base relationnelle.  
+SQL  
+➡️ Voir le projet
+
+---
+
+## 🎯 Objectif
+Débuter en tant que Data Analyst junior et contribuer à des projets orientés performance et prise de décision.
+
+---
+
+## 📫 Contact
+LinkedIn : …
+Email : …
