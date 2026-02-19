@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c’est Thomas
 
-Data Analyst junior récemment diplômé, avec 7 ans d’expérience en grande distribution dont 4 ans en management. Cette page présente une sélection de mes projets en analyse de données réalisés durant ma formation, illustrant ma démarche et mes compétences techniques.
+Data Analyst junior récemment diplômé, avec 7 ans d’expérience en pilotage d’activité dans la grande distribution dont 4 ans en management. Habitué à analyser des indicateurs de performance et à transformer les données en décisions opérationnelles, je partage ici une sélection de projets illustrant ma démarche en analyse de données, de la préparation des données jusqu’à la restitution d’insights exploitables.
 
 ---
 
