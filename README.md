@@ -4,6 +4,9 @@ Data Analyst junior récemment diplômé, avec 7 ans d’expérience en pilotage
 
 ---
 
+**<p align="center">
+    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">**
+
 ## 🛠️ Compétences
 - Python (Pandas, analyse exploratoire, visualisation)
 - SQL
