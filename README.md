@@ -4,7 +4,7 @@
 <tr>
 <td width="250">
 
-<img src="[LIEN_DU_GIF](https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif)" width="230">
+<img src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif" width="230">
 
 </td>
 <td>
