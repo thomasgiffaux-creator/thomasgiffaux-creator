@@ -53,5 +53,5 @@ Débuter en tant que Data Analyst et contribuer à des projets orientés perform
 ---
 
 ## 📫 Contact
-LinkedIn : …
+LinkedIn : …  
 Email : thomasgiffaux@gmail.com
