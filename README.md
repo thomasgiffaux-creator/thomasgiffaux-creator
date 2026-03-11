@@ -21,7 +21,7 @@ Data Analyst junior récemment diplômé, avec 7 ans d’expérience en grande d
 ### 🔹 Analyse des ventes e-commerce
 Analyse des performances commerciales et création d’un tableau de bord marketing.  
 Python, Excel  
-➡️ Voir le projet
+➡️ Voir le projet Projet 02 - Ventes_e-commerce/Livrables/rapport_mensuel.pdf
 
 ### 🔹 Optimisation de données commerciales
 Nettoyage, consolidation et analyse de données multi-sources.  
