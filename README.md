@@ -19,7 +19,7 @@ Data Analyst junior récemment diplômé, avec 7 ans d’expérience en grande d
 
 ### 🔹 Analyse immobilièress en France
 Analyse des performances commerciales et création d’un tableau de bord marketing.  
-Python, Power BI 
+Python, Power BI
 ➡️ [Voir le projet](https://github.com/thomasgiffaux-creator/Projet_invest_immo/blob/1cbf720b7c19081f0b86853dac5b14fc24baaf13/Pr%C3%A9sentation_projet_immo.pdf)
 
 
@@ -27,7 +27,7 @@ Python, Power BI
 
 ### 🔹 Analyse des ventes e-commerce
 Analyse des performances commerciales et création d’un tableau de bord marketing.  
-Python, Excel  
+Python, Excel
 ➡️ [Voir le projet](https://github.com/thomasgiffaux-creator/Portfolio_OpenClassrooms/blob/9f7eae51562c98a80f9a66f55c344a68915bd17e/Projet%2002%20-%20Ventes_e-commerce/Livrables/rapport_mensuel.pdf)
 
 ### 🔹 Optimisation de données commerciales
