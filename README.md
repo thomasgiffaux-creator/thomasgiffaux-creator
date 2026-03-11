@@ -15,8 +15,14 @@ Data Analyst junior récemment diplômé, avec 7 ans d’expérience en grande d
 - KNIME
 
 ---
+## 📊 Projet Data Perso
 
-## 📊 Projets Data
+### 🔹 Analyse immobilièress en France
+Analyse du marché immoblier français et identification des opportunités d'investissement.
+Python, Power BI
+➡️ [Voir le projet](https://github.com/thomasgiffaux-creator/Projet_invest_immo/blob/1cbf720b7c19081f0b86853dac5b14fc24baaf13/Pr%C3%A9sentation_projet_immo.pdf)
+
+## 📊 Projets Data OpenClassrooms
 
 ### 🔹 Analyse des ventes e-commerce
 Analyse des performances commerciales et création d’un tableau de bord marketing.  
@@ -47,4 +53,4 @@ Débuter en tant que Data Analyst et contribuer à des projets orientés perform
 
 ## 📫 Contact
 LinkedIn : …
-Email : …
+Email : thomasgiffaux@gmail.com
