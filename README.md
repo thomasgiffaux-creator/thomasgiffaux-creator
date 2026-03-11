@@ -26,22 +26,22 @@ Python, Excel
 ### 🔹 Optimisation de données commerciales
 Nettoyage, consolidation et analyse de données multi-sources.  
 Python  
-➡️ Voir le projet
+➡️ [Voir le projet](https://github.com/thomasgiffaux-creator/Portfolio_OpenClassrooms/blob/9f7eae51562c98a80f9a66f55c344a68915bd17e/Projet%2006%20-%20Data_boutique_Bottleneck/Livrables/pr%C3%A9sentation.pdf)
 
 ### 🔹 Dashboard de pilotage de projets
 Conception d’un dashboard interactif pour le suivi des performances.  
 Power BI  
-➡️ Voir le projet
+➡️ [Voir le projet](https://github.com/thomasgiffaux-creator/Portfolio_OpenClassrooms/blob/9f7eae51562c98a80f9a66f55c344a68915bd17e/Projet%2007%20-%20Dashboard_Sanitoral/Livrables/DB_vue%2001.png)
 
 ### 🔹 Base de données immobilière
 Modélisation et exploitation d’une base relationnelle.  
 SQL  
-➡️ Voir le projet
+➡️ [Voir le projet](https://github.com/thomasgiffaux-creator/Portfolio_OpenClassrooms/blob/9f7eae51562c98a80f9a66f55c344a68915bd17e/Projet%2005%20-%20Data_immobili%C3%A8res/Livrables/pr%C3%A9sentation.pdf)
 
 ---
 
 ## 🎯 Objectif
-Débuter en tant que Data Analyst junior et contribuer à des projets orientés performance et prise de décision.
+Débuter en tant que Data Analyst et contribuer à des projets orientés performance et prise de décision.
 
 ---
 
